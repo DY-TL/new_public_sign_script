@@ -46,6 +46,7 @@
 #### 最后，农场萌宠种豆得豆互相助力可进此[telegram讨论组](https://t.me/JD_fruit_pet)
 
 ### 特别感谢(排名不分先后)：
+
 * [@NobyDa](https://github.com/NobyDa)
 
 * [@chavyleung](https://github.com/chavyleung)
