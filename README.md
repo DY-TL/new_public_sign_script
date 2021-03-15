@@ -12,6 +12,8 @@
 12. 进店领豆([jd_shop.js](https://raw.githubusercontent.com/lxk0301/scripts/master/jd_shop.js))
 
 
+
+
  - 使用教程暂且可看 [这里](githubAction.md)
 
 #### 注：以上三种运行机制都是nodejs，故您需仔细阅读下面几点
