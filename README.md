@@ -57,6 +57,3 @@
 
 * [@nzw9314](https://github.com/nzw9314)
 
-sdsdssds
-更新cookie
-2021.1.1 更新cookie
